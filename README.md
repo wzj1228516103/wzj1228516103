@@ -15,16 +15,6 @@
 
 </div>
 
-```text
-$ whoami
-JacksonWu / 吴子杰
-
-$ uptime
-building applied AI systems with Python + Java
-
-$ ps aux | grep focus
-Agent orchestration | RAG | Tool Calling | IoT | backend reliability
-```
 
 ## About Me
 
