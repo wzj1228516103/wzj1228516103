@@ -38,49 +38,6 @@ My main playground is the intersection of AI applications and connected
 devices. I build with Python and Java, usually pairing FastAPI AI services
 with Spring Boot business systems.
 
-## What I Build
-
-```yaml
-agent:
-  orchestration: LangGraph
-  capabilities: [routing, memory, retrieval, tool-calling]
-
-knowledge:
-  pattern: RAG
-  vector_store: Chroma
-  inputs: [product_docs, device_faq, business_policy]
-
-runtime:
-  api: [FastAPI, Spring Boot]
-  transport: [WebSocket, MQTT, RabbitMQ]
-  state: [Redis, MySQL]
-  delivery: [Docker, Kubernetes, AWS]
-```
-
-## Selected Systems
-
-### `voice-agent/` · AI Voice Interaction Desktop Pet
-
-LangGraph workflow for voice preprocessing, intent routing, RAG retrieval,
-tool calls, response generation, and multi-turn state persistence.
-
-`LangGraph` `RAG` `Tool Calling` `WebSocket` `Opus` `Redis` `RabbitMQ`
-
-### `commerce-copilot/` · Cross-border E-commerce Customer Service
-
-Python AI service plus Java business backend for product, order, logistics,
-and after-sales conversations, with multilingual responses and human handoff.
-
-`FastAPI` `Spring Boot` `LangChain` `Chroma` `Redis` `RabbitMQ`
-
-### `distributed-rag/` · Knowledge Retrieval Platform
-
-Full-stack document processing and Q&A system with semantic chunking,
-vector retrieval, multi-turn conversation, citation-aware answers, and
-Docker delivery.
-
-`Python` `LangGraph` `Chroma` `FastAPI` `Spring Boot` `Docker`
-
 ## Open Source Log
 
 ### CrewAI · [PR #7341](https://github.com/crewAIInc/crewAI/pull/7341)
@@ -105,15 +62,6 @@ ordering around Redis readiness.
 [LiteLLM #40233](https://github.com/BerriAI/litellm/pull/40233) ·
 [LiteLLM #40230](https://github.com/BerriAI/litellm/pull/40230)
 
-## Engineering Notes
-
-```python
-def ship(capability):
-    system = compose(capability, knowledge, tools, state)
-    verify(system, tests=True, metrics=True)
-    deploy(system, reproducible=True)
-    return iterate(system)
-```
 
 I care about the part after the demo: explicit boundaries, idempotent writes,
 failure paths, observable behavior, and code that another engineer can run.
