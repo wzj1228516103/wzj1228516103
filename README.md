@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**wzj1228516103/wzj1228516103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# Jackson Wu
+# Jackson Wu
 
 AI Application Engineer · Java Backend Developer
 
@@ -92,7 +81,3 @@ Open to conversations about AI applications,
 backend engineering, Agent systems, and open-source collaboration.
 
 Please reach out through GitHub.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
