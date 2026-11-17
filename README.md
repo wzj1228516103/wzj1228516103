@@ -15,6 +15,12 @@
 
 </div>
 
+## Personal Website
+
+[Visit my personal website](https://wzj1228516103.github.io/jackson-wu-portfolio/)
+
+[![Screenshot of my personal website homepage](assets/portfolio-homepage.jpg)](https://wzj1228516103.github.io/jackson-wu-portfolio/)
+
 ## About Me
 
 I am a backend developer focused on applied AI engineering.
