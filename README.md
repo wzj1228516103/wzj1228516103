@@ -19,7 +19,7 @@
 
 [Visit my personal website](https://wzj1228516103.github.io/jackson-wu-portfolio/)
 
-[![Screenshot of my personal website homepage](assets/portfolio-preview.jpg)](https://wzj1228516103.github.io/jackson-wu-portfolio/)
+[![Screenshot of my personal website homepage](assets/portfolio-homepage-en.jpg)](https://wzj1228516103.github.io/jackson-wu-portfolio/)
 
 ## About Me
 
