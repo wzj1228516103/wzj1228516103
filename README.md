@@ -17,9 +17,18 @@
 
 ## Personal Website
 
-[Visit my personal website](https://wzj1228516103.github.io/jackson-wu-portfolio/)
+[Visit my personal website](https://wzj1228516103.github.io/jackson-wu-portfolio/?lang=en)
 
-[![Screenshot of my personal website homepage](assets/portfolio-homepage-en.jpg)](https://wzj1228516103.github.io/jackson-wu-portfolio/)
+Explore my projects, view my printable résumé, or ask the streaming AI chat
+about my work. After each reply, the chat suggests questions to ask next.
+
+[![English homepage of my portfolio with the AI chat bar](assets/portfolio-homepage-en.jpg)](https://wzj1228516103.github.io/jackson-wu-portfolio/?lang=en)
+
+## Open Source
+
+**Resume Portfolio** is a reusable template for building a personal website and
+printable A4 résumé. It includes a self-hosted portfolio agent with streaming
+chat and configurable follow-up questions. [Source code](https://github.com/wzj1228516103/resume-portfolio) · [Live demo](https://wzj1228516103.github.io/resume-portfolio/)
 
 ## About Me
 
